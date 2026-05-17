@@ -8,6 +8,6 @@ public class day2grade {
         else if (n>=50 && n<=74)
         System.out.println("C");
         else 
-        System.out.println("FAIL");
+         System.out.println("FAIL");
     }
 }
